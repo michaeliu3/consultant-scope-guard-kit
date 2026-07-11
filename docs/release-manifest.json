@@ -4,9 +4,13 @@
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
+    "consultant-scope-guard-kit-landscape.png": {
+      "bytes": 165110,
+      "sha256": "48edcc26ea29dacc80ccfb60e38522ffdf8a905c011f6f13b0601f0657287721"
+    },
     "index.html": {
-      "bytes": 3143,
-      "sha256": "b9b31fc716f1c0b3b196ae29ff77e76d4379f130f134bb87f80c7a36415aa89a"
+      "bytes": 4952,
+      "sha256": "8e5cd74e2decf237fb865b68b62a1320380488a1690f703ef9da9767b8643323"
     },
     "product-guide-preview.md": {
       "bytes": 674,
@@ -17,8 +21,8 @@
       "sha256": "6e5aed729e9713fdac302c81ec6904cf60328d92f8d807b4eba6e0062226468e"
     },
     "scope-change-request-example.html": {
-      "bytes": 3241,
-      "sha256": "e6db44f21308e6fba964eab30de67ebb91f4cfb61775b8a689cff4850101b720"
+      "bytes": 4247,
+      "sha256": "d22ad56795a72054c22c9b59e69157d214ca37bf5b7d7e6310a3792f010a6fad"
     },
     "sitemap.xml": {
       "bytes": 298,
