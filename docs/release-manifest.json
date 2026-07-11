@@ -1,0 +1,30 @@
+{
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "index.html": {
+      "bytes": 3143,
+      "sha256": "b9b31fc716f1c0b3b196ae29ff77e76d4379f130f134bb87f80c7a36415aa89a"
+    },
+    "product-guide-preview.md": {
+      "bytes": 674,
+      "sha256": "15929905cc73f9cfeaa74feb4ec9c26ec054adfe553fb8a797b32eb60086f107"
+    },
+    "robots.txt": {
+      "bytes": 100,
+      "sha256": "6e5aed729e9713fdac302c81ec6904cf60328d92f8d807b4eba6e0062226468e"
+    },
+    "scope-change-request-example.html": {
+      "bytes": 3241,
+      "sha256": "e6db44f21308e6fba964eab30de67ebb91f4cfb61775b8a689cff4850101b720"
+    },
+    "sitemap.xml": {
+      "bytes": 298,
+      "sha256": "e583ddc88d52b1fcebb9df0f476ad247ac3e814aa600d1bd9f44fb70e98c5cc9"
+    }
+  },
+  "product": "consultant-scope-guard-kit",
+  "schema_version": 1
+}

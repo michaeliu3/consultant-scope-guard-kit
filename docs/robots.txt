@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michaeliu3.github.io/consultant-scope-guard-kit/sitemap.xml
